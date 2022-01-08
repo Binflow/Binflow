@@ -20,9 +20,9 @@
 
 - Chronology of events:
 - Registration opening: January 08 12:00 UTC
-- Closing registration: January 15 12:00 UTC
-- Winners Announcement: January 15
-- Start Pre-sale (Whitelist): January 16 12:00 UTC
-- Start Pre-sale (For all): January 17 12:00 UTC
-- Start trading on pancakeswap.finance: January 19 12:00 UTC
+- Closing registration: January 22 12:00 UTC
+- Winners Announcement: January 22
+- Start Pre-sale (Whitelist): January 23 12:00 UTC
+- Start Pre-sale (For all): January 24 12:00 UTC
+- Start trading on pancakeswap.finance: January 25 12:00 UTC
 - Development start: February 01
